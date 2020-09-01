@@ -1,5 +1,6 @@
+import MyPage from ''
 export default [
     {
-        path:'/user',
+        path:'/user',component:MyPage
     }
 ]
